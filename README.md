@@ -13,6 +13,7 @@ Official smart contract for Rob platform deployed on Robinhood Chain.
 | Collection Factory | `0xd6946F6CF5E47575762222aF116178EaFD514760` |
 | Token Factory | `0xC0B0C1cB10DbB476CDcE588FEF7763dfF01F3E23` |
 | Form Factory | `0x99f7602554DDD64eBfFBF43a77D62E7edD38E049` |
+| BadgeRegistry | `0xCbF38df9f44421fFFB6A8DBCD4BC2e52b2CfbFcA` |
 
 
 ## Network
